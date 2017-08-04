@@ -1,0 +1,117 @@
+
+.page-header {
+	background-color: white;
+	margin-bottom: 0%;
+	border-bottom: none;
+}
+
+#customLogo {
+	text-align: center;
+	color: #2A3132;
+	font-family: Jacques Francois;
+	display: block;
+	padding: 3%;
+	/*padding-top: 5%;*/
+}
+
+h1 {
+	font-size: 60px;
+}
+
+/*start nav bar*/
+
+.navbar {
+	background-color: white;
+	border: none;
+	font-size: 18px;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+ul {
+	display: inline-block;
+	margin-bottom: 0%;
+	list-style: none;
+}
+
+li {
+	float: left;
+	text-align: center;
+	letter-spacing: 1px;
+	margin-right: 25px;
+	font-weight: bold;
+}
+
+a {
+	color: #C99E10;
+	font-weight: bold;
+	font-family: Raleway;
+}
+
+a:hover {
+	color: #2A3132;
+}
+
+a:visited {
+	color: #C99E10;
+}
+
+#a {
+	padding-top: 1%;
+	border-top: 1px solid #C99E10;
+	border-bottom: 4px double  #C99E10;
+}
+
+h3 {
+	font-family: Poiret One;
+	text-align: center;
+	color: grey;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: Philosopher;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+.fullWidth {
+	background-color: #141a27;
+	width: 100%;
+}
+
+.content {
+	min-height: 500px;
+}
+
+
+.contentContainer {
+	background-color: white;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	min-height: 400px;
+}
+
+#copyright {
+	text-align: center;
+	color: #2A3132;
+	background-color: black;
+	font-family: Sacramento;
+	font-size: 18px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 0%;
+}
+
+#footer {
+	padding: 0%;
+}
+
+
+
+
+
